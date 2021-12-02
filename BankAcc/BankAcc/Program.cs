@@ -12,20 +12,20 @@ namespace BankAcc
             int number = int.Parse(Console.ReadLine());
 
             Console.Write("Enter the name of the account holder: ");
-            string accName = Console.ReadLine();
+            string accHolder = Console.ReadLine();
 
             Console.Write("Do you want to include some amount(y/n)? ");
             char resp = char.Parse(Console.ReadLine());
 
             if (resp == 'y' || resp == 'Y')
             {
-                Console.WriteLine("Enter the deposit amount: ");
+                Console.Write("Enter the deposit amount: ");
                 double initialDeposit = double.Parse(Console.ReadLine());
-                acc = new BankAcc(number, accName, initialDeposit);
+                acc = new BankAcc(number, accHolder, initialDeposit);
             }
             else
             {
-                acc = new BankAcc(number, accName);
+                acc = new BankAcc(number, accHolder);
             }
 
             Console.WriteLine();
@@ -42,7 +42,7 @@ namespace BankAcc
             Console.WriteLine(acc);
             // ===== Withdraw ===== //
             Console.WriteLine();
-            Console.Write("Enter the withdrawal amount: ");
+            Console.Write("Enter the withdrawal amount (fee of 2.0): ");
             amount = double.Parse(Console.ReadLine());
             acc.Withdrawal(amount);
 

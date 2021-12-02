@@ -1,0 +1,14 @@
+C:\Users\dviga\GitHub_Public\BankAcc_Basic_CSharp\BankAcc\BankAcc\obj\Debug\netcoreapp3.1\BankAcc.csproj.AssemblyReference.cache
+C:\Users\dviga\GitHub_Public\BankAcc_Basic_CSharp\BankAcc\BankAcc\obj\Debug\netcoreapp3.1\BankAcc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dviga\GitHub_Public\BankAcc_Basic_CSharp\BankAcc\BankAcc\obj\Debug\netcoreapp3.1\BankAcc.AssemblyInfoInputs.cache
+C:\Users\dviga\GitHub_Public\BankAcc_Basic_CSharp\BankAcc\BankAcc\obj\Debug\netcoreapp3.1\BankAcc.AssemblyInfo.cs
+C:\Users\dviga\GitHub_Public\BankAcc_Basic_CSharp\BankAcc\BankAcc\obj\Debug\netcoreapp3.1\BankAcc.csproj.CoreCompileInputs.cache
+C:\Users\dviga\GitHub_Public\BankAcc_Basic_CSharp\BankAcc\BankAcc\bin\Debug\netcoreapp3.1\BankAcc.exe
+C:\Users\dviga\GitHub_Public\BankAcc_Basic_CSharp\BankAcc\BankAcc\bin\Debug\netcoreapp3.1\BankAcc.deps.json
+C:\Users\dviga\GitHub_Public\BankAcc_Basic_CSharp\BankAcc\BankAcc\bin\Debug\netcoreapp3.1\BankAcc.runtimeconfig.json
+C:\Users\dviga\GitHub_Public\BankAcc_Basic_CSharp\BankAcc\BankAcc\bin\Debug\netcoreapp3.1\BankAcc.runtimeconfig.dev.json
+C:\Users\dviga\GitHub_Public\BankAcc_Basic_CSharp\BankAcc\BankAcc\bin\Debug\netcoreapp3.1\BankAcc.dll
+C:\Users\dviga\GitHub_Public\BankAcc_Basic_CSharp\BankAcc\BankAcc\bin\Debug\netcoreapp3.1\BankAcc.pdb
+C:\Users\dviga\GitHub_Public\BankAcc_Basic_CSharp\BankAcc\BankAcc\obj\Debug\netcoreapp3.1\BankAcc.dll
+C:\Users\dviga\GitHub_Public\BankAcc_Basic_CSharp\BankAcc\BankAcc\obj\Debug\netcoreapp3.1\BankAcc.pdb
+C:\Users\dviga\GitHub_Public\BankAcc_Basic_CSharp\BankAcc\BankAcc\obj\Debug\netcoreapp3.1\BankAcc.genruntimeconfig.cache
