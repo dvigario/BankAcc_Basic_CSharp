@@ -1,18 +1,18 @@
 ﻿namespace BankAcc
 {
-    class BancAcc
+    class BankAcc
     {
         public int AccNumber { get; private set; }
         public string AccName { get; set; }
         public double Balance { get; private set; }
 
-        public BancAcc(int accNumber, string accName)
+        public BankAcc(int accNumber, string accName)
         {
             AccNumber = accNumber;
             AccName = accName;
         }
 
-        public BancAcc(int accNumber, string accName, double balance) : this(accNumber, accName)
+        public BankAcc(int accNumber, string accName, double balance) : this(accNumber, accName)
         {
             Balance = balance;
         }
