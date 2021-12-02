@@ -24,7 +24,7 @@
 
         public void Withdrawal(double amount)
         {
-            Balance -= amount + 2.0; // 2.0 = tax
+            Balance -= amount + 2.0; // 2.0 = fee
         }
 
         public override string ToString()
